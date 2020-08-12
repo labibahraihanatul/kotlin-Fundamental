@@ -1,2 +1,0 @@
-# kotlin-Fundamental
-belajar kotlin
